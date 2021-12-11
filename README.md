@@ -28,4 +28,5 @@ https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack \
 https://minecraft.fandom.com/wiki/Sounds.json
 
 Original source of this non-github fork: \
-https://www.planetminecraft.com/texture-pack/realistic-alternative-noteblocks/
+https://www.planetminecraft.com/texture-pack/realistic-alternative-noteblocks/ \
+https://github.com/ZtechNetwork/MCBVanillaResourcePack

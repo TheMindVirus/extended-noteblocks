@@ -11,7 +11,8 @@ Path for Bedrock Edition: %LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3
 ```
 A `.mcpack` file is just a renamed .zip file that Minecraft Bedrock recognises. \
 `sounds.json` is `\u00A7b\u00A7lBased on Realistic Noteblocks\u00A7r by\u00A7e Gelly!` \
-and the Vanilla Resource Pack authors as this is how it started instead of from scratch. 
+and the Vanilla Resource Pack authors as this is how it started instead of from scratch. \
+All the .ogg sound files have been replaced with newly generated ones.
 
 Samples generated using customised patches of Xfer Serum in FL Studio \
 Xfer-Records Serum: https://xferrecords.com/products/serum \

@@ -1,7 +1,7 @@
 # extended-noteblocks
 Hybrid Resource Pack for Bedrock and Java Edition which changes the sample sounds of note blocks in the game
 
-YouTube Demo: <pending>
+YouTube Demo: https://youtu.be/CTVWzjL69UU
 
 To Install for Bedrock Edition, simply double click the `extended-noteblocks.mcpack` file after it's installed.
 The Install for Java Edition is a bit more complicated:

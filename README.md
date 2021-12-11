@@ -3,7 +3,7 @@ Hybrid Resource Pack for Bedrock and Java Edition which changes the sample sound
 
 YouTube Demo: https://youtu.be/CTVWzjL69UU
 
-To Install for Bedrock Edition, simply double click the `extended-noteblocks.mcpack` file after it's installed.
+To Install for Bedrock Edition, simply double click the `extended-noteblocks.mcpack` file after it's installed. \
 The Install for Java Edition is a bit more complicated:
 ```
 Path for Java Edition: %AppData%\Roaming\.minecraft\resourcepacks\extended-noteblocks.zip

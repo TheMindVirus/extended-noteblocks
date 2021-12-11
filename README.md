@@ -26,3 +26,6 @@ More information on modding Resource Packs: \
 https://minecraft.fandom.com/wiki/Tutorials/Creating_resource_pack_add-ons \
 https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack \
 https://minecraft.fandom.com/wiki/Sounds.json
+
+Original source of this non-github fork: \
+https://www.planetminecraft.com/texture-pack/realistic-alternative-noteblocks/

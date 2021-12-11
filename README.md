@@ -9,6 +9,9 @@ The Install for Java Edition is a bit more complicated:
 Path for Java Edition: %AppData%\Roaming\.minecraft\resourcepacks\extended-noteblocks.zip
 Path for Bedrock Edition: %LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs
 ```
+A `.mcpack` file is just a renamed .zip file that Minecraft Bedrock recognises. \
+`sounds.json` is `\u00A7b\u00A7lBased on Realistic Noteblocks\u00A7r by\u00A7e Gelly!` \
+and the Vanilla Resource Pack authors as this is how it started instead of from scratch. 
 
 Samples generated using customised patches of Xfer Serum in FL Studio \
 Xfer-Records Serum: https://xferrecords.com/products/serum \
